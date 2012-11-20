@@ -14,4 +14,7 @@ doc/
 *~
 .project
 .DS_Store
-.idea/
+.idea
+
+',idea' 
+'.idea' 
